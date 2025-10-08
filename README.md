@@ -63,7 +63,7 @@ Each graph internally exists as a **graph vector JSON**, which the AI:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/MainakVerse/Graph.git
+git clone https://github.com/MainakVerse/Graphica.git
 cd ai-graph-creator
 
 # 2. Install dependencies
