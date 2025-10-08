@@ -1,11 +1,14 @@
 # 🧠 Graphica: AI Graph Creator
 
+<img width="1899" height="874" alt="image" src="https://github.com/user-attachments/assets/118ba703-6baa-4930-9943-2fa244de402d" />
+
 **AI Graph Creator** is an intelligent, privacy-first platform that transforms user prompts into beautiful, data-driven visualizations — instantly.  
 It lets users connect their own data (Google Sheets or cloud sources), generate graphs through AI, and collaborate with others — without ever uploading their raw data.
 
 ---
 
 ## 🚀 Features
+<img width="1899" height="790" alt="image" src="https://github.com/user-attachments/assets/96132203-6e9d-4280-bb0d-933d70050c5e" />
 
 - 💬 **Prompt-to-Graph AI:** Describe your chart in natural language — e.g. *“Show me sales in November”* — and the AI suggests the best visuals.
 - 🧩 **Smart Graph Recommendations:** The system understands data context and offers the top 3 visualization options.
@@ -40,6 +43,9 @@ It lets users connect their own data (Google Sheets or cloud sources), generate 
 6. **Save Snapshot** — Store graph definitions and versions securely.  
 
 🧩 *No raw data leaves your account — only graph configurations and metadata are stored.*
+
+<img width="1200" height="894" alt="image" src="https://github.com/user-attachments/assets/a4cf3672-63c9-4c37-bac8-c753a3fbba86" />
+<img width="1200" height="894" alt="image" src="https://github.com/user-attachments/assets/ee0a9896-8d83-4d48-9476-350fea5dccb6" />
 
 ---
 
