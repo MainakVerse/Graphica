@@ -45,7 +45,9 @@ It lets users connect their own data (Google Sheets or cloud sources), generate 
 🧩 *No raw data leaves your account — only graph configurations and metadata are stored.*
 
 <img width="1200" height="894" alt="image" src="https://github.com/user-attachments/assets/a4cf3672-63c9-4c37-bac8-c753a3fbba86" />
-<img width="1200" height="894" alt="image" src="https://github.com/user-attachments/assets/ee0a9896-8d83-4d48-9476-350fea5dccb6" />
+<img width="1534" height="861" alt="image" src="https://github.com/user-attachments/assets/a5234170-19d9-4993-973b-5eb4b325f8bc" />
+<img width="1534" height="861" alt="image" src="https://github.com/user-attachments/assets/f1e0cb65-6e06-450f-8d6a-49e3299f2533" />
+
 
 ---
 
