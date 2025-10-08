@@ -48,7 +48,6 @@ It lets users connect their own data (Google Sheets or cloud sources), generate 
 <img width="1534" height="861" alt="image" src="https://github.com/user-attachments/assets/a5234170-19d9-4993-973b-5eb4b325f8bc" />
 <img width="1534" height="861" alt="image" src="https://github.com/user-attachments/assets/f1e0cb65-6e06-450f-8d6a-49e3299f2533" />
 
-
 ---
 
 ## 🧠 AI Intelligence Layer
