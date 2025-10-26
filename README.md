@@ -7,6 +7,30 @@ It lets users connect their own data (Google Sheets or cloud sources), generate 
 
 ---
 
+<!-- 🏷️ Tech Stack Badges -->
+![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Google OAuth](https://img.shields.io/badge/Auth-Google%20OAuth-4285F4?logo=google&logoColor=white)
+![Pinecone](https://img.shields.io/badge/VectorDB-Pinecone-17B890?logo=pinecone&logoColor=white)
+![Weaviate](https://img.shields.io/badge/VectorDB-Weaviate-FF6F00?logo=weaviate&logoColor=white)
+![Gemini](https://img.shields.io/badge/AI-Gemini-4285F4?logo=google&logoColor=white)
+![OpenAI GPT](https://img.shields.io/badge/AI-OpenAI%20GPT-412991?logo=openai&logoColor=white)
+![Plotly](https://img.shields.io/badge/Visualization-Plotly-3F4F75?logo=plotly&logoColor=white)
+![Vega-Lite](https://img.shields.io/badge/Visualization-Vega--Lite-ED1C24)
+![Deck.gl](https://img.shields.io/badge/Visualization-Deck.gl-FF4088?logo=deck.gl&logoColor=white)
+
+<!-- ⚙️ Deployment & Repo Badges -->
+![License](https://img.shields.io/github/license/MainakVerse/Graphica)
+![Stars](https://img.shields.io/github/stars/MainakVerse/Graphica?style=social)
+![Forks](https://img.shields.io/github/forks/MainakVerse/Graphica?style=social)
+![Issues](https://img.shields.io/github/issues/MainakVerse/Graphica)
+![Pull Requests](https://img.shields.io/github/issues-pr/MainakVerse/Graphica)
+![Last Commit](https://img.shields.io/github/last-commit/MainakVerse/Graphica)
+
 ## 🚀 Features
 <img width="1899" height="790" alt="image" src="https://github.com/user-attachments/assets/96132203-6e9d-4280-bb0d-933d70050c5e" />
 
